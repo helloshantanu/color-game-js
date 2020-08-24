@@ -1,0 +1,41 @@
+.top_banner{
+    background-color: rgb(155, 255, 245);
+    text-align: center;
+    padding: 25px ;
+    margin: 0px !important;
+}
+
+.line {
+    background-color: lightgray;
+    text-align: center;
+    margin-top: 0% !important;
+
+}
+
+h3{
+    margin-block-start: 0px;
+}
+
+.square-front {
+    padding:25px;
+    margin:auto;
+    width: 40%;
+    background-color: aliceblue;
+    padding: auto;
+
+}
+
+.square{
+    background-color: rgb(100, 200, 0);
+    border: solid 2px black;
+    border-radius: 5px;
+    
+    display: inline-block;
+    height: 120px;
+    width:120px;
+    margin-left: 30px;
+    margin-top: 0px;
+    
+    
+}
+
